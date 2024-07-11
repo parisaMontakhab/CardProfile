@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
  return(
-  <div className='text-center bg-red-100 m-40 w-1/3 mx-auto rounded-2xl'>
+  <div className='text-center bg-red-100 m-40 w-1/3 mx-auto rounded-2xl shadow-2xl'>
     <div className='grid grid-cols-2 gap-2 '>
       <div className=' bg-red-100 rounded-2xl mb-2'>
         <img src='./public/images/profile.png' className='rounded-full  mx-auto p-4 shadow-md'/>
