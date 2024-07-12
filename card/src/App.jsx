@@ -26,6 +26,7 @@ function App() {
           <div className='text-stone-600 font-semibold rounded-2xl bg-purple-300 col-span-2'> BOOTSTRAP</div>
           <div className='text-stone-600 font-semibold rounded-2xl bg-rose-400'> GIT</div>
           
+          
 
         </div>
       </div>
